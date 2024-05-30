@@ -15,6 +15,10 @@ jobs:
         include:
           - image: alpine
             repo: docker.io
+          - image: centos
+            repo: docker.io
+          - image: haproxy
+            repo: docker.io
           - image: jitsi/web
             repo: docker.io
           - image: jitsi/prosody
