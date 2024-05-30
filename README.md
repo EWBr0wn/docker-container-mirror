@@ -8,12 +8,12 @@ GitHub Actions scheduled to run daily at Midnight UTC to mirror some images to [
 Mirrored Images:
 * [`alpine`](https://ghcr.io/EWBr0wn/alpine)
 * [`centos`](https://ghcr.io/EWBr0wn/centos)
-* [`debian`](https://ghcr.io/EWBr0wn/debian)
 * [`haproxy`](https://ghcr.io/EWBr0wn/haproxy)
 * [`jitsi/jicofo`](https://ghcr.io/EWBr0wn/jitsi/jicofo)
 * [`jitsi/jvb`](https://ghcr.io/EWBr0wn/jitsi/jvb)
 * [`jitsi/prosody`](https://ghcr.io/EWBr0wn/jitsi/prosody)
 * [`jitsi/web`](https://ghcr.io/EWBr0wn/jitsi/web)
+* [`ubuntu`](https://ghcr.io/EWBr0wn/ubuntu)
 
 [github-actions-badge]: https://img.shields.io/github/actions/workflow/status/EWBr0wn/docker-container-mirror/mirror.yml?branch=master "Github Workflow Status (master)"
 [github-actions-link]: https://github.com/EWBr0wn/docker-container-mirror/actions?query=workflow%3AMirror%20Docker%20Containers
