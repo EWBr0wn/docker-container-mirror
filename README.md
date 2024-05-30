@@ -6,14 +6,14 @@ Docker Container Mirror on GitHub powered by Github Actions and [Crane](https://
 GitHub Actions scheduled to run daily at Midnight UTC to mirror some images to [GHCR.io](https://ghcr.io), bypassing rate limits
 
 Mirrored Images:
-* [`alpine`](https://ghcr.io/EWBr0wn/alpine)
-* [`centos`](https://ghcr.io/EWBr0wn/centos)
-* [`haproxy`](https://ghcr.io/EWBr0wn/haproxy)
-* [`jitsi/jicofo`](https://ghcr.io/EWBr0wn/jitsi/jicofo)
-* [`jitsi/jvb`](https://ghcr.io/EWBr0wn/jitsi/jvb)
-* [`jitsi/prosody`](https://ghcr.io/EWBr0wn/jitsi/prosody)
-* [`jitsi/web`](https://ghcr.io/EWBr0wn/jitsi/web)
-* [`ubuntu`](https://ghcr.io/EWBr0wn/ubuntu)
+* [`alpine`](https://github.com/EWBr0wn/docker-container-mirror/pkgs/container/mirror%2Fdocker.io%2Falpine)
+* [`centos`](https://github.com/EWBr0wn/docker-container-mirror/pkgs/container/mirror%2Fdocker.io%2Fcentos)
+* [`haproxy`](https://github.com/EWBr0wn/docker-container-mirror/pkgs/container/mirror%2Fdocker.io%2Fhaproxy)
+* [`jitsi/jicofo`](https://github.com/EWBr0wn/docker-container-mirror/pkgs/container/mirror%2Fdocker.io%2Fjitsi/jicofo)
+* [`jitsi/jvb`](https://github.com/EWBr0wn/docker-container-mirror/pkgs/container/mirror%2Fdocker.io%2Fjitsi/jvb)
+* [`jitsi/prosody`](https://github.com/EWBr0wn/docker-container-mirror/pkgs/container/mirror%2Fdocker.io%2Fjitsi/prosody)
+* [`jitsi/web`](https://github.com/EWBr0wn/docker-container-mirror/pkgs/container/mirror%2Fdocker.io%2Fjitsi/web)
+* [`ubuntu`](https://github.com/EWBr0wn/docker-container-mirror/pkgs/container/mirror%2Fdocker.io%2Fubuntu)
 
 [github-actions-badge]: https://img.shields.io/github/actions/workflow/status/EWBr0wn/docker-container-mirror/mirror.yml?branch=master "Github Workflow Status (master)"
 [github-actions-link]: https://github.com/EWBr0wn/docker-container-mirror/actions?query=workflow%3AMirror%20Docker%20Containers
